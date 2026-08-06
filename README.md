@@ -1,5 +1,7 @@
 # 🌟 mem0 - A Simple Way to Manage Memory for AI
 
+[![SafeSkill 30/100](https://img.shields.io/badge/SafeSkill-30%2F100_Blocked-red)](https://safeskill.dev/scan/pintaro-mem0)
+
 ## 🚀 Getting Started
 
 Welcome to mem0! This application helps you manage memory for AI agents, making their actions more efficient. Follow these steps to download and run mem0 on your device.
